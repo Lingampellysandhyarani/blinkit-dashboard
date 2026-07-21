@@ -1,0 +1,17 @@
+OutletKey,Outlet Establishment Year,Outlet Identifier,OutletLocationKey,Outlet Size,Outlet Type
+1,2011,OUT010,3,Small,Grocery Store
+2,2011,OUT010,3,Medium,Grocery Store
+3,2011,OUT010,3,High,Grocery Store
+4,2012,OUT049,1,Medium,Supermarket Type1
+5,2014,OUT013,3,High,Supermarket Type1
+6,2015,OUT045,2,Small,Supermarket Type1
+7,2015,OUT045,2,Medium,Supermarket Type1
+8,2015,OUT045,2,High,Supermarket Type1
+9,2016,OUT046,1,Small,Supermarket Type1
+10,2017,OUT035,2,Small,Supermarket Type1
+11,2018,OUT027,3,Medium,Supermarket Type3
+12,2018,OUT019,1,Small,Grocery Store
+13,2020,OUT017,2,Small,Supermarket Type1
+14,2020,OUT017,2,Medium,Supermarket Type1
+15,2020,OUT017,2,High,Supermarket Type1
+16,2022,OUT018,3,Medium,Supermarket Type2
